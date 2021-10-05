@@ -1,0 +1,33 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background: #9549D0;
+}
+
+
+ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+li,a{
+    font-family: Passero One;
+    font-size: 27px;
+    line-height: 43px;
+    margin-right: 2rem ;
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
+.main_section{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-shadow: 3px 3px 3px black;
+}
