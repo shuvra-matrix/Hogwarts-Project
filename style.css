@@ -81,3 +81,23 @@ h3{
     font-family: 'Peralta', cursive;
 }
 
+
+
+
+.course{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: auto;
+}
+
+.course_img{
+    padding-right: 2rem;
+    
+
+}
+
+.course_des{
+    padding-top: 7rem;
+    color: white;
+}
