@@ -37,14 +37,17 @@ li,a{
     color: white;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
-
+.hogw{
+    font-size: 4rem;
+}
 h2{
     font-family: 'Henny Penny', cursive;
-    font-size: 3rem;
+    font-size: 2.8rem;
     margin-bottom: 0px;
 
 }
 p{
+   
     font-family: 'Oxygen', sans-serif;
 }
 
@@ -163,9 +166,12 @@ h2 , h3 ,p {color: white;}
     }
 }
 
-@media only screen and (max-width: 811px) {
+@media only screen and (max-width: 500px) {
 .course_des{
     padding-top: 0px;
+}
+.logo{
+    width: 45px !important;
 }
 
 }
