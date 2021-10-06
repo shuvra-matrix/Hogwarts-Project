@@ -122,9 +122,9 @@ h3{
 
 
 .teacher_1{
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+   
 }
 
 h2 , h3 ,p {color: white;}
@@ -153,5 +153,8 @@ h2 , h3 ,p {color: white;}
     .main_text{
         margin: auto;
     }
-
+    .teacher_1{
+        width: 80px ; 
+        height: 80px ;
+    }
 }
