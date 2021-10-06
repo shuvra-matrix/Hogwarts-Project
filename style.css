@@ -89,6 +89,7 @@ h3{
     flex-direction: row;
     width: 80%;
     margin: auto;
+    flex-wrap: wrap;
 }
 
 .course_img{
@@ -152,5 +153,8 @@ h2 , h3 ,p {color: white;}
     .main_text{
         margin: auto;
     }
-
+    .teacher_1{
+        width: 80px ; 
+        height: 80px ;
+    }
 }
